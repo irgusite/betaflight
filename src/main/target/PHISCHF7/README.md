@@ -1,0 +1,23 @@
+## PHISCHF7
+
+* STM32F745VGT6
+* ICM20689 SPI Gyro
+* VCP
+* 1 UARTS (UART7)
+* 4 PWM outputs
+* No PWM inputs (SBUS, PPM, Spek Sat)
+
+# PINOUT
+
+MOTOR 1 = PB0
+MOTOR 2 = PB1
+MOTOR 3 = PA3
+MOTOR 3 = PA2
+
+LED 0   = PB6
+LED 1   = PB7
+
+UART7TX = PE8
+UART7RX = PE7
+
+IMU_CS  = PE15
